@@ -1,5 +1,4 @@
 tap "caskroom/cask"
-tap "d12frosted/emacs-plus"
 tap "homebrew/bundle"
 tap "homebrew/core"
 tap "homebrew/dupes"
